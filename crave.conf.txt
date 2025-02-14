@@ -1,0 +1,10 @@
+{
+  "username": "alekshramela@gmail.com",
+  "headers": {
+    "Content-Type": "application/json",
+    "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjgzNSwidGVhbUlkIjoxLCJpc0FwaUtleSI6dHJ1ZSwiaWF0IjoxNzM5NTc1NDQxfQ.Mu0MUlasgWe1cQgUvhlxwmbhgAYnQHs1N2LQO_5OfCE",
+    "User-Agent": "Crave"
+  },
+  "projects": [],
+  "server": "https://foss.crave.io/api"
+}
